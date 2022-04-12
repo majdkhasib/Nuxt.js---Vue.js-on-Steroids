@@ -1,9 +1,10 @@
 <template>
-  <h1>Starter code</h1>
+  <h1>Home page</h1>
 </template>
 
 <script>
-export default {
-  name: "IndexPage",
-};
+export default {};
 </script>
+
+<style>
+</style>
